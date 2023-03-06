@@ -1,6 +1,6 @@
 <?php
 
-const REQUIRED_FIELD_ERROR = 'This is field is required';
+const REQUIRED_FIELD_ERROR = 'This field is required';
 $errors = [];
 $username = $email = $password = $password_confirm = $cv_url = '';
 
